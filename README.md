@@ -1,20 +1,97 @@
-<h1 align="center">Hi 👋, I'm Yinzhe!</h1>
-<h3 align="center">Full Stack Developer and eternal 'learner'; forever pursuing what's next and adapting my perspective of what it means to do better. Began my journey with MERN, but continuously trying my hand at and getting to know new technologies. With a lifelong passion for art and design, and thirst for challenge, I've found my happy place here - in the world of programming.</h3>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: "Courier New", monospace;
+      background-color: #ffebd6; /* Cream background with a balanced undertone */
+      color: #333; /* Dark gray text */
+      margin: 0;
+      padding: 0;
+    }
 
-- Currently I'm learning how to work with PHP and getting to know Wordpress. [Easton Nights](https://github.com/yinzhedy/EastonNights)
+    h1 {
+      font-size: 28px;
+      text-align: center;
+    }
 
-- 🐍 I'm also getting better at creating with Python every day. [Lady Gang](https://github.com/yinzhedy/LadyGang)
+    p {
+      font-size: 16px;
+      text-align: center;
+      line-height: 1.4;
+    }
 
-- 📫 How to reach me **yinzhe.dy@gmail.com**
+    h2 {
+      font-size: 22px;
+      text-align: center;
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yinzhe-dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yinzhe-dy" height="30" width="40" /></a>
-</p>
+    h3 {
+      font-size: 20px;
+      text-align: center;
+      margin: 20px 0;
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+    ul {
+      list-style: none;
+      padding: 0;
+      text-align: center;
+    }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yinzhedy&show_icons=true&locale=en&layout=compact" alt="yinzhedy" /></p>
+    li {
+      margin: 5px 0;
+    }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yinzhedy&show_icons=true&locale=en" alt="yinzhedy" /></p>
+    a {
+      text-decoration: none;
+      color: #0366d6; /* GitHub link color */
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <h1>Hi there, I'm Yinzhe! 👋</h1>
+
+    <p>Full Stack Developer | Eternal Learner | Art Enthusiast</p>
+
+    <!-- Introduction -->
+    <p>Forever pursuing what's next and adapting my perspective of what it means to do better. With a lifelong passion for art and design and a thirst for a challenge, I've found my happy place in the world of programming.</p>
+
+    <!-- Skills -->
+    <h2>Skills</h2>
+
+    <h3>Front-End Development:</h3>
+    <p>JavaScript | HTML | CSS | jQuery | Bootstrap | React | Tailwind | GraphQL</p>
+
+    <h3>Back-End Development:</h3>
+    <p>Python | PHP | Node.js | Express.js | MongoDB | SQL | MySQL | Django</p>
+
+    <h3>Version Control & Other Technologies:</h3>
+    <p>GitHub | Bash | Git | WordPress</p>
+
+    <!-- What I'm Up To -->
+    <h2>What I'm Up To 👨‍💻</h2>
+
+    <ul>
+      <li>🚀 Currently, I'm learning how to work with PHP and getting to know WordPress. Check out my progress on my <a href="https://github.com/yinzhedy/EastonNights">Easton Nights</a> project.</li>
+      <li>🐍 I'm also getting better at creating with Python every day. Take a look at what I'm making on my <a href="https://github.com/yinzhedy/LadyGang">Lady Gang</a> project.</li>
+    </ul>
+
+    <!-- Contact Information -->
+    <h2>Get in Touch 📬</h2>
+
+    <p>📧 Email: <a href="mailto:yinzhe.dy@gmail.com">yinzhe.dy@gmail.com</a><br>💼 LinkedIn: <a href="https://linkedin.com/in/yinzhe-dy">yinzhe-dy</a></p>
+  </div>
+</body>
+</html>
